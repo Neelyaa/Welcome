@@ -19,6 +19,6 @@
   > Ici tu trouvera tout mes projets posté durant ma formation de Développeur Web (: Ils sont quelques peu .. 
 
 - [x] Bizarre ! 👽
-- [ ] Terminé  ⏳
-- [ ] Au point ✔️
+- [ ] Terminé  ✔️
+- [ ] Au point 🖥️
   
